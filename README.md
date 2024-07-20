@@ -7,16 +7,8 @@
 
 <h4>Hi I am Pranav Bharadwaj 💇‍♂️ , a passionate Full Stack Developer from India. I have expertise in building scalable web applications using the MERN stack, Django, and Flutter for mobile development. I love working with new technologies and continuously learning new things.<h4>
 
-<table align="center" width="100%" height="100%">
-  <tr>
-    <td> 
-      ![Github stats](https://github-readme-stats.vercel.app/api?username=pranav-bharadwaj&theme=radical&show_icons=true&count_private=true&hide=issues) 
-    </td>
-    <td> 
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-bharadwaj&theme=radical&layout=compact)](https://github.com/pranav-bharadwaj) 
-    </td>
-  </tr>
-</table>
+![Github stats](https://github-readme-stats.vercel.app/api?username=pranav-bharadwaj&theme=radical&show_icons=true&count_private=true&hide=issues) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-bharadwaj&theme=radical&layout=compact)](https://github.com/pranav-bharadwaj) 
 
 <h2> Technologies I like to work with ❤️</h2>
 <table width="100%" height="100%" align="center">
