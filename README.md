@@ -32,10 +32,13 @@
       <img alt="nodejs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </td>
     <td align="center">
-      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+      <img alt="cpp" height=64px src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    </td>
     <td align="center">
       <img alt="flutter" height=64px src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
     </td>
@@ -47,6 +50,9 @@
     </td>
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    </td>
+    <td align="center">
+      <img alt="jenkins" height=64px src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
     </td>
     <td align="center">
       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
@@ -61,18 +67,6 @@
 
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-bharadwaj&theme=github-compact)](https://github.com/pranav-bharadwaj/github-readme-activity-graph)
 
-<h2> My Projects 📁</h2>
-<a href="https://github.com/pranav-bharadwaj/Query_hook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-bharadwaj&theme=react&repo=Query_hook" />
-</a>
-<a href="https://github.com/pranav-bharadwaj/Sanchari-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-bharadwaj&theme=react&repo=Sanchari-1" />
-</a>
-<a href="https://informatsy.in/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-bharadwaj&theme=react&repo=Informatsy" />
-</a>
-
-<br>
 <br>
 
 ## Let's collaborate 🚀
