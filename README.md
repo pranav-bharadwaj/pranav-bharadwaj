@@ -1,61 +1,99 @@
-# Pranav Bharadwaj
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pranav-bharadwaj&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/pranav-bharadwaj)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-## Bachelor of Engineering (CSE)
-I am a passionate software engineer with expertise in Full Stack application development. My experience includes building scalable web applications using the MERN stack, Django framework, and Flutter for mobile app development. I also have proficiency in utilizing AWS for cloud computing and developing various enterprise APIs with diverse technologies. I am eager to bring my expertise and contribute from day one to any system.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bharadwaj-83777319b)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:pranavbharadwaj2001@gmail.com)
+![](https://komarev.com/ghpvc/?username=pranav-bharadwaj&color=brightgreen&style=for-the-badge)
 
-- 📫 Email: pranavbharadwaj2001@gmail.com
-- 📞 Phone: 6363255811
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-bharadwaj-83777319b)
-- 🏡 [GitHub](https://github.com/pranav-bharadwaj)
+<h4>Hi I am Pranav Bharadwaj 💇‍♂️ , a passionate Full Stack Developer from India. I have expertise in building scalable web applications using the MERN stack, Django, and Flutter for mobile development. I love working with new technologies and continuously learning new things.<h4>
 
-## Education
-**Computer Science and Engineering**  
-Visvesvaraya Technological University  
-07/2018 - 08/2022, Hassan district, Karnataka state
+<table align="center" width="100%" height="100%">
+  <tr>
+    <td> 
+      ![Github stats](https://github-readme-stats.vercel.app/api?username=pranav-bharadwaj&theme=radical&show_icons=true&count_private=true&hide=issues) 
+    </td>
+    <td> 
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-bharadwaj&theme=radical&layout=compact)](https://github.com/pranav-bharadwaj) 
+    </td>
+  </tr>
+</table>
 
-## Personal Projects
-### [Query Hook](https://github.com/pranav-bharadwaj/Query_hook)
-- Full-stack application using MERN stack (MySQL, Express.js, React.js, Node.js)
-- Platform for students or users to ask and answer technical questions, write blogs about student ideas
+<h2> Technologies I like to work with ❤️</h2>
+<table width="100%" height="100%" align="center">
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    </td>
+    <td align="center">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    </td>
+    <td align="center">
+      <img alt="react" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    </td>
+    <td align="center">
+      <img alt="nodejs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    </td>
+    <td align="center">
+      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="flutter" height=64px src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+    </td>
+    <td align="center">
+      <img alt="firebase" height=64px src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+    </td>
+    <td align="center">
+      <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    </td>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    </td>
+    <td align="center">
+      <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    </td>
+    <td align="center">
+      <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    </td>
+  </tr>
+</table>
 
-### [Informatsy](https://informatsy.in/)
-- Full-stack application using Django REST framework (backend) and React.js (frontend)
-- One-stop platform for students to stay aware of their academic activities
-- Used by many VTU students to get resources and notifications regarding the university
+<br>
 
-### [Sanchari](https://github.com/pranav-bharadwaj/Sanchari-1)
-- Developed using Flutter framework
-- Platform providing real-time location and other information of buses, notifications to government employees
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-bharadwaj&theme=github-compact)](https://github.com/pranav-bharadwaj/github-readme-activity-graph)
 
-## Work Experience
-### Full Stack Software Development Intern, Kloudmate (03/2022 - 06/2022)
-- Worked on applications using AWS and React.js (Gatsby, MaterialUI, TailwindCSS)
-- Built a notification service using AWS SNS, SQS, AWS Lambda, and DynamoDB
-- Contributed to frontend design for Kloudmate using React.js and Gatsby
+<h2> My Projects 📁</h2>
+<a href="https://github.com/pranav-bharadwaj/Query_hook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-bharadwaj&theme=react&repo=Query_hook" />
+</a>
+<a href="https://github.com/pranav-bharadwaj/Sanchari-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-bharadwaj&theme=react&repo=Sanchari-1" />
+</a>
+<a href="https://informatsy.in/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranav-bharadwaj&theme=react&repo=Informatsy" />
+</a>
 
-### Software Engineer 1, Synopsys (09/2022 - Present)
-- Worked on Perforce, Perl scripting, CGI, and Python backend
-- Designed APIs for flow analysis tasks, regressions, product image builds, and real-time integration for Synopsys products
-- Implemented web page enhancements, reducing time for release managers by 70%
-- Optimized query handling, reducing page loading times for managing over 2000+ data records
+<br>
+<br>
 
-## Technical Skills
-- **Languages**: C/C++, Python, Go
-- **Frameworks**: Django, React.js, Node.js, AngularJS, Express.js, Django REST framework, Serverless Framework
-- **Tools**: AWS, Firebase, Git/GitHub
-- **Concepts**: Full stack development, Problem solving, Data structures and algorithms, OOP
+## Let's collaborate 🚀
 
-## Organizations
-- **Technical Lead**, GLUE - GECH Linux Users & Enthusiasts (06/2021 - 08/2022)
-- **Campus Ambassador**, Jumpwhere (01/2020 - 05/2021)
-- **Member**, Rotaract (05/2018 - 08/2022)
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
-## Certificates
-- **Problem Solving Certificate** ([HackerRank](https://www.hackerrank.com/certificates/48205cd4dbb7))
-- **Google Code Jam** (05/2021) - Solved 2 questions and selected for the next round
-- **Cyber Security Workshop** (01/2020) - IISC Bangalore, two-day workshop on cyber security
+<p>
+  <a href="mailto:pranavbharadwaj2001@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pranav-bharadwaj-83777319b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+</p>
 
-## Online Profiles
-- [HackerRank](https://www.hackerrank.com/thinkinfinity?hr_r=1)
-- [Codeforces](https://codeforces.com/profile/think.....infinity)
-- [CodeChef](https://www.codechef.com/users/think_infinity)
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
