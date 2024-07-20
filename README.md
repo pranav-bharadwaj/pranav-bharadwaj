@@ -65,7 +65,7 @@
 
 <br>
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-bharadwaj&theme=github-compact)](https://github.com/pranav-bharadwaj/github-readme-activity-graph)
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-bharadwaj&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph&hide_title=true&custom_time=month)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
