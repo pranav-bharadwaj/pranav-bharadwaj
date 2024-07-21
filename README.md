@@ -5,10 +5,10 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:pranavbharadwaj2001@gmail.com)
 ![](https://komarev.com/ghpvc/?username=pranav-bharadwaj&color=brightgreen&style=for-the-badge)
 
-<h4>Hi I am Pranav Bharadwaj 💇‍♂️ , a passionate Full Stack Developer from India. I have expertise in building scalable web applications using the MERN stack, Django, and Flutter for mobile development. I love working with new technologies and continuously learning new things.<h4>
+<h4>Hi I am Pranav Bharadwaj 💇‍♂️ , a passionate backend developement. I have expertise in building scalable web applications using the MERN stack, Django, and Flutter for mobile development. I love working with new technologies and continuously learning new things.<h4>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pranav-bharadwaj&theme=radical&show_icons=true&count_private=true&hide=issues) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-bharadwaj&theme=radical&layout=compact)](https://github.com/pranav-bharadwaj) 
+<a href="https://github.com/anuraghazra/github-readme-stats">![Github stats](https://github-readme-stats.vercel.app/api?username=pranav-bharadwaj&theme=dracula&show_icons=true&count_private=true&hide=issues) </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-bharadwaj&theme=dracula&layout=compact)](https://github.com/pranav-bharadwaj)</a>
 
 <h2> Technologies I like to work with ❤️</h2>
 <table width="100%" height="100%" align="center">
@@ -65,8 +65,7 @@
 
 <br>
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-bharadwaj&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph&hide_title=true&custom_time=month)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-bharadwaj&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph&hide_title=true&custom_time=months&theme=vue&from=2020-01-01&to=2030-05-01)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 ## Let's collaborate 🚀
